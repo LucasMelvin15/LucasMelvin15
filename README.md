@@ -1,4 +1,9 @@
-### Hi there 👋 I'm mel
+### Hi there 👋 I'm Melvin Lucas
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning full-stack Javascript Software Development .
+- 👯 I’m looking to collaborate on any fun projects and on open-source projects.
+- 📫 How to reach me: ...
+
 
 ![Melvin's Github stats](https://github-readme-stats.vercel.app/api?username=LucasMelvin15&show_icons=true&theme=tokyonight)
 
