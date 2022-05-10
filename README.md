@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm mel
 
-![Melvin's Github stats](https://github-readme-stats.vercel.app/api?username=LucasMelvin15&show_icons=true)
+![Melvin's Github stats](https://github-readme-stats.vercel.app/api?username=LucasMelvin15&show_icons=true&theme=tokyonight)
 <!--
 **LucasMelvin15/LucasMelvin15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
