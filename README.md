@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Melvin Lucas
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning full-stack Javascript Software Development .
+### Hi there 👋 I'm Melvin Lucas.
+- 🔭 I’m currently working on projects for full-stack Javascript Software Development.
+- 🌱 I’m currently learning Javascript and it's frameworks .
 - 👯 I’m looking to collaborate on any fun projects and on open-source projects.
 - 📫 How to reach me: ...
 
