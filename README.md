@@ -2,8 +2,12 @@
 #### Full Stack Software Developer
 
 I am a passionate software engineer with a diverse creative skill-set motivated by the power of technology as a tool for positive change .This year my goal is to learn new technologies and to contribute to open source more.
-
-Skills: NODE JS / REACT /MONGODB / JS / HTML / CSS / BOOTSTRAP / AWS CLOUD
+ 
+ See [my website](https://melvinlucas.netlify.app/) for more information.
+ 
+  ##Skills
+  
+ NODE JS / REACT /MONGODB / JS / HTML / CSS / BOOTSTRAP / AWS CLOUD
 
 
 
