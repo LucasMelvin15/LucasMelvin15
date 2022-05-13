@@ -1,5 +1,5 @@
 
-![Full Stack Software Developer](https://lucasmelvin15.github.io/Banner-/)
+
 ### Hi there 👋, Melvin Lucas
 #### Full Stack Software Developer
 
