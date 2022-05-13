@@ -1,6 +1,7 @@
+
+![Full Stack Software Developer](https://lucasmelvin15.github.io/Banner-/)
 ### Hi there 👋, Melvin Lucas
 #### Full Stack Software Developer
-![Full Stack Software Developer](https://lucasmelvin15.github.io/Banner-/)
 
 I am a passionate software engineer with a diverse creative skill-set motivated by the power of technology as a tool for positive change .This year my goal is to learn new technologies and to contribute to open source more
 
