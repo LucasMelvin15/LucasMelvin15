@@ -1,9 +1,17 @@
-### Hi there 👋 
-I'm Melvin Lucas and I am a  software developer.
-- 🔭 I’m currently working on projects for full-stack Javascript Software Development.
-- 🌱 I’m currently learning Javascript and it's frameworks .
-- 👯 I’m looking to collaborate on any fun projects and on open-source projects.
-- 📫 How to reach me: ...
+### Hi there 👋, Melvin Lucas
+#### Full Stack Software Developer
+![Full Stack Software Developer](https://lucasmelvin15.github.io/Banner-/)
+
+I am a passionate software engineer with a diverse creative skill-set motivated by the power of technology as a tool for positive change .This year my goal is to learn new technologies and to contribute to open source more
+
+Skills: NODE JS / REACT /MONGODB / JS / HTML / CSS / BOOTSTRAP / AWS CLOUD
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 ![Melvin's Github stats](https://github-readme-stats.vercel.app/api?username=LucasMelvin15&show_icons=true&theme=tokyonight)
