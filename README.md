@@ -2,7 +2,7 @@
 
 <h2 align ="center"> Full Stack Software Developer </h2>
 
-<h4> I am a passionate software engineer with a diverse creative skill-set motivated by the power of technology as a tool for positive change .This year my goal is to learn new technologies and to contribute to open source more.</h4>
+<h4> I am a passionate software engineer with a diverse , creative skill-set motivated by the power of technology as a tool for positive change .This year my goal is to learn new technologies and to contribute to open source more.</h4>
  
  See [my website](https://melvinlucas.netlify.app/) for more information.
  
