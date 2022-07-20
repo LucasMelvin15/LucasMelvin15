@@ -26,12 +26,12 @@
 | ------------- | ------------- |
 | <h2>Popcornflix</h2> JavaScript, Reactjs,  RESTful API | ![Recording 2022-07-20 at 20 22 11](https://user-images.githubusercontent.com/100833144/180053952-2f2148d6-c675-4447-8a2c-33572367986b.gif)
  |  Description | Users can search their favorite movie and movie collection ,get relase dates and information on the movies. |
-| ------------- | ------------- |
+
 | <h2>Popcornflix</h2> JavaScript, Reactjs,  RESTful API | ![Recording 2022-07-20 at 20 22 11](https://user-images.githubusercontent.com/100833144/180053952-2f2148d6-c675-4447-8a2c-33572367986b.gif)
  |  Description | Users can search their favorite movie and movie collection ,get relase dates and information on the movies. |
   
  
-| Content Cell  | Content Cell  |
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMelvin15&exclude_repo=github-readme-stats,LucasMelvin15.github.io)](https://github.com/LucasMelvin15/github-readme-stats)
