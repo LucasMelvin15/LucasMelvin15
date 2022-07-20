@@ -32,7 +32,7 @@
   <h3>Javascript ,CSS ,HTML </h3>
   <p>A mental health website where users can get information on mental health using articles ,meditation audios, highlight on key menatl health issues and discussions and also get a referral to get help </p>
 
-![Recording 2022-07-08 at 12 00 04](https://user-images.githubusercontent.com/100833144/180051238-83d3068d-3068-4c25-a7ce-4c29f26680b7.gif)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMelvin15&exclude_repo=github-readme-stats,LucasMelvin15.github.io)](https://github.com/LucasMelvin15/github-readme-stats)
 
