@@ -31,7 +31,7 @@
 
 ![Melvin's Github stats](https://github-readme-stats.vercel.app/api?username=LucasMelvin15&show_icons=true&theme=tokyonight)
   <h1 align ="center"> Projects </h1>
-     #Popcornflix
+      <h3>Popcornflix </h3> 
   <h3>Javascript ,CSS ,React.js &REST APis </h3>
   <p>A movie platform where users can search for their favorite movies,see release dates and get a log of an entire collection </p>
   
