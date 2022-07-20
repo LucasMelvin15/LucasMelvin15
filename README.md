@@ -27,7 +27,7 @@
    
 ![Recording 2022-07-20 at 20 22 11](https://user-images.githubusercontent.com/100833144/180047692-5f2215a6-72be-463f-807f-ffbcc9c99475.gif)
 
-       <h3>MentalCheck </h3> 
+       <h3> MentalCheck </h3> 
   <h3>Javascript ,CSS ,HTML </h3>
   <p>A mental health website where users can get information on mental health using articles ,meditation audios, highlight on key menatl health issues and discussions and also get a referral to get help </p>
 
