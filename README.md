@@ -24,7 +24,7 @@
 
 | Name of Project  | Overview |
 | ------------- | ------------- |
-| Popcornflix JavaScript,Reactjs  | ![Recording 2022-07-20 at 20 22 11](https://user-images.githubusercontent.com/100833144/180053952-2f2148d6-c675-4447-8a2c-33572367986b.gif)
+| <h2>Popcornflix</h2> JavaScript,Reactjs RESTful API | ![Recording 2022-07-20 at 20 22 11](https://user-images.githubusercontent.com/100833144/180053952-2f2148d6-c675-4447-8a2c-33572367986b.gif)
   |
 | Content Cell  | Content Cell  |
 
