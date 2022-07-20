@@ -25,13 +25,13 @@
 | Name of Project  | Overview |
 | ------------- | ------------- |
 | <h2>Popcornflix</h2> JavaScript, Reactjs,  RESTful API | ![Recording 2022-07-20 at 20 22 11](https://user-images.githubusercontent.com/100833144/180053952-2f2148d6-c675-4447-8a2c-33572367986b.gif)
- |  Description | Users can search their favorite movie and movie collection ,get relase dates and information on the movies. |
 
 
-| ------------- | ------------- |
+
+
 
 | <h2>MentalCheck</h2> JavaScript, HTML, CSS |![Recording 2022-07-08 at 12 00 04](https://user-images.githubusercontent.com/100833144/180057668-db9a3d5f-9276-4197-8024-ffa21d76ee7e.gif)
- |  Description | Users can get information on mental health ,read articles,meditate,get referral for professional help and also reach helplines. |
+ 
   
  
 
