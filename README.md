@@ -30,7 +30,9 @@
 
 
 ![Melvin's Github stats](https://github-readme-stats.vercel.app/api?username=LucasMelvin15&show_icons=true&theme=tokyonight)
-  # Projects
+  <h1 align ="center"> Projects </h1>
+  <h3>Javascript ,CSS ,React.js &REST APis </h3>
+  <p>A movie platform where users can search for their favorite movies,see release dates and get a log of an entire collection </p>
   
   
 ![Recording 2022-07-20 at 20 22 11](https://user-images.githubusercontent.com/100833144/180047692-5f2215a6-72be-463f-807f-ffbcc9c99475.gif)
